@@ -36,3 +36,7 @@ To be a clearer and simpler SPA framework base on Observable and Many other fram
 + vue/angular/react is quite good enough, but still has some history burden, still complex to track changes or hack native js/es running sequence.
 + vdom is good but not so good when you can directly observe data changes and compair the data which build the vdom, angular dont has vdom, but use zone to track changes, which is like black cloud cover your app;
 + and one more, for a realy complex spa, when you use them , although chunk splitted, but there is no way to unimport those codes , especially use assembly module which is so large , 10M each, need keep, and packages not all so pure and closure keep increasing, bad and sad, just like webcomponet, I can regist one when I need, but cant unregist it when I dont need it
+
+#proto
+
+[https://stackblitz.com/edit/vite-5yargd?file=rxv.ts](proto)
