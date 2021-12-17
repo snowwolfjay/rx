@@ -39,4 +39,4 @@ To be a clearer and simpler SPA framework base on Observable and Many other fram
 
 #proto
 
-[https://stackblitz.com/edit/vite-5yargd?file=rxv.ts](proto)
+[online proto](https://stackblitz.com/edit/vite-5yargd?file=rxv.ts)
